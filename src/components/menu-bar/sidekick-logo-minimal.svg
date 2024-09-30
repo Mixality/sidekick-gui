@@ -1,23 +1,48 @@
-<?xml version="1.0" encoding="utf-8"?>
-<svg viewBox="0 0 1024 1024" width="1024px" height="1024px" xmlns="http://www.w3.org/2000/svg">
-    <g id="g-1" transform="matrix(1.163134, 0, 0, 1.163081, -9.026044, -35.353489)" style="">
-        <title>logo4</title>
-        <g style="" transform="matrix(0.832517, 0, 0, 0.832517, 75.024178, 82.846268)">
-            <title>hintergrund</title>
-           
-           
-        </g>
-        <g id="g-2" transform="matrix(0.931649, 0, 0, 0.931649, 246.421875, 139.795685)" style="">
-            <title>wappen</title>
-            <path
-                d="M 213.06900024414062 205.85000610351562 L 165.85699462890625 323.68701171875 L 242.62399291992188 274.6409912109375 L 225.3730010986328 366.1409912109375 L 137.7790069580078 452.10400390625 L 129 504.6759948730469 L 142.96299743652344 456.16400146484375 L 240.5070037841797 385.26300048828125 L 297.4649963378906 208.58200073242188 L 208.36099243164062 273.3800048828125 L 231.46200561523438 216.98800659179688 L 318.29998779296875 133.9759979248047 Z"
-                style="fill-rule: nonzero; paint-order: stroke; stroke: rgb(197, 221, 172); stroke-width: 150.381px; stroke-linejoin: round; fill: rgb(197, 221, 172);" />
-            <path
-                d="M 213.06900024414062 205.85000610351562 L 165.85699462890625 323.68701171875 L 242.62399291992188 274.6409912109375 L 225.3730010986328 366.1409912109375 L 137.7790069580078 452.10400390625 L 129 504.6759948730469 L 142.96299743652344 456.16400146484375 L 240.5070037841797 385.26300048828125 L 297.4649963378906 208.58200073242188 L 208.36099243164062 273.3800048828125 L 231.46200561523438 216.98800659179688 L 318.29998779296875 133.9759979248047 Z"
-                style="fill-rule: nonzero; paint-order: stroke; stroke: rgb(255, 255, 255); stroke-width: 75.1906px; stroke-linejoin: round; fill: rgb(255, 255, 255);" />
-            <polygon
-                style="fill-rule: nonzero; paint-order: stroke; fill: rgb(182, 213, 151); stroke-width: 75.1906px; stroke-linejoin: round;"
-                points="213.069 205.85 165.857 323.687 242.624 274.641 225.373 366.141 137.779 452.104 129 504.676 142.963 456.164 240.507 385.263 297.465 208.582 208.361 273.38 231.462 216.988 318.3 133.976" />
-        </g>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+    aria-hidden="true"
+    viewBox="0 0 500 500"
+    position="absolute"
+    width="100%"
+    height="100%"
+    left="0"
+    top="0"
+    version="1.1"
+    id="svg6"
+    sodipodi:docname="sidekick-logo-minimal.svg"
+    inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+    xmlns="http://www.w3.org/2000/svg"
+    xmlns:svg="http://www.w3.org/2000/svg">
+    <defs
+        id="defs10" />
+    <sodipodi:namedview
+        id="namedview8"
+        pagecolor="#ffffff"
+        bordercolor="#000000"
+        borderopacity="0.25"
+        inkscape:showpageshadow="2"
+        inkscape:pageopacity="0.0"
+        inkscape:pagecheckerboard="0"
+        inkscape:deskcolor="#d1d1d1"
+        showgrid="false"
+        inkscape:zoom="0.40722656"
+        inkscape:cx="773.52518"
+        inkscape:cy="586.89688"
+        inkscape:window-width="1920"
+        inkscape:window-height="1008"
+        inkscape:window-x="1366"
+        inkscape:window-y="0"
+        inkscape:window-maximized="1"
+        inkscape:current-layer="svg6" />
+    <g id="g-2"
+        transform="matrix(1.1, 0, 0, 1.1, 100, -100)" style="">
+        <path
+            d="M 213.06900024414062 205.85000610351562 L 165.85699462890625 323.68701171875 L 242.62399291992188 274.6409912109375 L 225.3730010986328 366.1409912109375 L 137.7790069580078 452.10400390625 L 129 504.6759948730469 L 142.96299743652344 456.16400146484375 L 240.5070037841797 385.26300048828125 L 297.4649963378906 208.58200073242188 L 208.36099243164062 273.3800048828125 L 231.46200561523438 216.98800659179688 L 318.29998779296875 133.9759979248047 Z"
+            style="fill-rule: nonzero; paint-order: stroke; stroke: rgb(255, 255, 255); stroke-width: 75.1906px; stroke-linejoin: round; fill: rgb(255, 255, 255);" />
+        <polygon
+            style="fill-rule: nonzero; paint-order: stroke; fill: rgb(182, 213, 151); stroke-width: 75.1906px; stroke-linejoin: round;"
+            points="213.069 205.85 165.857 323.687 242.624 274.641 225.373 366.141 137.779 452.104 129 504.676 142.963 456.164 240.507 385.263 297.465 208.582 208.361 273.38 231.462 216.988 318.3 133.976" />
     </g>
 </svg>
