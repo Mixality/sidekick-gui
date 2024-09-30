@@ -94,7 +94,8 @@ import fileIcon from './icon--file.svg';
 import editIcon from './icon--edit.svg';
 import addonsIcon from './addons.svg';
 import errorIcon from './tw-error.svg';
-import advancedIcon from './tw-advanced.svg';
+// import advancedIcon from './tw-advanced.svg';
+import advancedIcon from './sidekick-logo-minimal.svg';
 
 import ninetiesLogo from './nineties_logo.svg';
 import catLogo from './cat_logo.svg';
