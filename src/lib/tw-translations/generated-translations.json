@@ -294,6 +294,7 @@
         "tw.accent.purple": "Lila",
         "tw.accent.rainbow": "Regenbogen",
         "tw.accent.red": "Rot",
+        "tw.accent.green": "Grün",
         "tw.alerts.creatingRestorePoint": "Wiederherstellungspunkt wird erstellt...",
         "tw.alerts.lostPeripheralConnection": "Verbindung zu {extensionName} verloren.",
         "tw.alerts.restorePointError": "Der Wiederherstellpunkt konnte nicht erstellt werden",
